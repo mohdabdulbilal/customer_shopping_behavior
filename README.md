@@ -1,5 +1,7 @@
 # 🛒 Customer Shopping Behavior Analysis
 
+![Dashboard Screenshot](https://github.com/mohdabdulbilal/customer_shopping_behavior/blob/main/customer_behavior_dashboard.jpg)
+
 ## 📊 Project Overview
 This project analyzes **customer shopping behavior** using transactional data from **3,900 purchases** across various product categories. The goal is to uncover insights into:  
 - 💰 Spending patterns  
